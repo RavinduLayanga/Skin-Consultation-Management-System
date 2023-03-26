@@ -1,0 +1,33 @@
+
+ ------------- Doctor 1 Details.-------------
+
+01.First Name      :- hasantha
+02.Sure Name       :- zebra
+03.Date of Birth   :- 1987-01-31
+04.Mobile Number   :- 0123456789
+05.Medical Licence :- sdfhgsa
+06.Specialisation  :- jjj
+ ------------- Doctor 2 Details.-------------
+
+01.First Name      :- kavi
+02.Sure Name       :- asa
+03.Date of Birth   :- 1987-05-03
+04.Mobile Number   :- 1234567890
+05.Medical Licence :- jkl
+06.Specialisation  :- lllll
+ ------------- Doctor 3 Details.-------------
+
+01.First Name      :- dumindu
+02.Sure Name       :- charith
+03.Date of Birth   :- 1978-03-05
+04.Mobile Number   :- 1236547890
+05.Medical Licence :- hja
+06.Specialisation  :- pppp
+ ------------- Doctor 4 Details.-------------
+
+01.First Name      :- sarith
+02.Sure Name       :- bala
+03.Date of Birth   :- 1968-02-05
+04.Mobile Number   :- 4567891230
+05.Medical Licence :- kkla
+06.Specialisation  :- 012
